@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\bin\Debug\net6.0-windows\Calculadoras 2.exe
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\bin\Debug\net6.0-windows\Calculadoras 2.deps.json
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\bin\Debug\net6.0-windows\Calculadoras 2.runtimeconfig.json
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\bin\Debug\net6.0-windows\Calculadoras 2.dll
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\bin\Debug\net6.0-windows\Calculadoras 2.pdb
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\Calculadoras 2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\Calculadoras_2.Form1.resources
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\Calculadoras 2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\Calculadoras 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\Calculadoras 2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\Calculadoras 2.AssemblyInfo.cs
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\Calculadoras 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\Calculadoras 2.dll
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\refint\Calculadoras 2.dll
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\Calculadoras 2.pdb
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\Calculadoras 2.genruntimeconfig.cache
+C:\Users\HP\source\repos\Calculadoras 2\Calculadoras 2\obj\Debug\net6.0-windows\ref\Calculadoras 2.dll
